@@ -20,15 +20,9 @@ This project does **not** include backend functionality or music streaming. It i
 
 ---
 
-## 🚀 Live Demo
-
-> **Live Website:** https://your-live-demo-link.com
-
----
-
 ## 📂 Repository
 
-> **GitHub Repository:** https://github.com/yourusername/spotify-clone
+> **GitHub Repository:** (https://github.com/akshay-mutkule/Spotify-clone.git)
 
 ---
 
